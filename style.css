@@ -1,0 +1,19 @@
+nav{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 2rem;
+    font-size: 2rem;
+    font-family: 'Tangerine', serif;
+    font-weight: bold;
+    border-radius: 1rem;
+    background: linear-gradient(140deg,pink,white);
+    color: white;
+    text-shadow: 1px 1px 10px red;
+    box-shadow: 1px 1px 20px rgba(255, 0, 0, 0.771);
+    border: 1px solid pink;
+}
+
+body{
+    background-color: rgba(240, 187, 196, 0.764);
+}
+
